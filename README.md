@@ -25,6 +25,13 @@
   I was accepted into the aviation institute without a competition and was
   quite surprised to learn that after graduation, I would become an engineer, not a pilot!
 
+My current projects:  
+
+https://olbreeze.github.io/appStarWars/    
+https://olbreeze.github.io/CardWar/  
+https://olbreeze.github.io/Tictactoe/    
+https://olbreeze.github.io/weather/  
+https://olbreeze.github.io/CatchChicken/  
 
 
   
