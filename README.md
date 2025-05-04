@@ -14,7 +14,7 @@
 <b>Additional:</b> PowerDesigner, Jira, Photoshop, Figma  
 <b>My book "Oracle 9i Administration" :</b> <a href="http://deepedit.ru/book-oracle-9i-admin.html" target="_blank">book-oracle-9i-admin</a>  
 
-
+[Обычная ссылка с title](http://deepedit.ru/book-oracle-9i-admin.html "book-oracle-9i-admin")
 
 ### 👀 I invite you to visit my presentation page:
 
