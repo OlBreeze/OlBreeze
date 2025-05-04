@@ -28,10 +28,6 @@ https://olbreeze.github.io/MyProfile/
    www.linkedin.com/in/golovash-olga
 
   spisolja@gmail.com
-  
-- ⚡ Fun fact: When I read Arthur Hailey's book "Airport," I dreamed of becoming a pilot.
-  I was accepted into the aviation institute without a competition and was
-  quite surprised to learn that after graduation, I would become an engineer, not a pilot!
 
 My current projects:  
 
