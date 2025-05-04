@@ -13,6 +13,7 @@
 <b>Databases:</b> Oracle, MySQL, PostgreSQL, MongoDB, Firebase  
 <b>Additional:</b> PowerDesigner, Jira, Photoshop, Figma  
 <b>My book "Oracle 9i Administration" :</b> <a target="_blank" href="http://deepedit.ru/book-oracle-9i-admin.html">book-oracle-9i-admin</a>  
+http://deepedit.ru/book-oracle-9i-admin.html
 
 
 ### 👀 I invite you to visit my presentation page:
