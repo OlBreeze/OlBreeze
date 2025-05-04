@@ -3,13 +3,16 @@
                                                    
    # Hi, I’m Olga. 👋
 
-[ I graduated from a humanities gymnasium and entered the aviation university, after which I became interested in programming and participated in the full cycle of project development
- for the financial sector of an energy company.
- I worked as an Oracle database administrator for more than ten years.
- At some point, I was offered a large project for the development of accounting programs on 1C.
- I led and supported more than 20 companies, received a huge number of thanks and positive reviews.
-  Now I am engaged in software development on Java, JavaScript, TypeScript, React, Redux...`
- I'm currently learning course Full Stack Java at Tel-Ran. I'm excited about gaining hands-on experience and deepening my understanding of software development processes.]: # 
+<b>Full Stack Developer</b> specializing in <b>Java, Spring</b> (Boot, Security and frontend technologies <b>HTML, CSS, React, Redux</b>. Full-cycle development experience, covering both backend and frontend components. Experience in working with <b>relational and NoSQL</b> databases.  
+
+## Skills Summary  
+<b>Programming Languages:</b> Java, JavaScript, TypeScript, React, Redux, Delphi, 1C, SQL, PL/SQL  
+<b>Web:</b> HTML, CSS, SCSS, Bootstrap, JS, TS, jQuery, Node.js  
+<b>Frameworks and Libraries:</b> Spring, Spring Boot, Maven, Hibernate, Lombok, Rest API, JUnit  
+<b>IDEs /Tools:</b> Eclipse, IntelliJ IDEA, WebStorm, VS Code, GitHub, Postman  
+<b>Databases:</b> Oracle, MySQL, PostgreSQL, MongoDB, Firebase  
+<b>Additional:</b> PowerDesigner, Jira, Photoshop, Figma  
+<b>My book "Oracle 9i Administration" :</b> <a href="http://deepedit.ru/book-oracle-9i-admin.html">book-oracle-9i-admin</a>  
 
 
 ### 👀 I invite you to visit my presentation page:
