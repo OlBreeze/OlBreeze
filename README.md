@@ -29,7 +29,7 @@ https://olbreeze.github.io/MyProfile/
 
   spisolja@gmail.com
 
-My current projects:  
+A bit of coding mischief I got into:  
 
 https://olbreeze.github.io/appStarWars/    
 https://olbreeze.github.io/CardWar/  
