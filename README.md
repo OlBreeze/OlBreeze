@@ -19,6 +19,8 @@
 
 https://olbreeze.github.io/MyProfile/  
 
+- Added AI Assistant — October 30, 2025
+
  I'm looking for opportunities to collaborate on interesting projects that allow me to develop my skills and apply my knowledge in practice.
  I'm also interested in internships where I can gain valuable experience and contribute to a team.
  If you have any ideas or suggestions, I’d be happy to discuss!
