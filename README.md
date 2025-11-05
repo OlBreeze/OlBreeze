@@ -16,10 +16,12 @@
         
 
 ### 👀 I invite you to visit my presentation page:
-
-https://olbreeze.github.io/MyProfile/  
-
 - Added AI Assistant — October 30, 2025
+  
+https://olbreeze.github.io/MyProfile/  
+---
+
+
 
  I'm looking for opportunities to collaborate on interesting projects that allow me to develop my skills and apply my knowledge in practice.
  I'm also interested in internships where I can gain valuable experience and contribute to a team.
@@ -33,7 +35,7 @@ https://olbreeze.github.io/MyProfile/
 
 # 😏 A bit of coding mischief I got into:  
 
-https://github.com/OlBreeze/library-microservices  
+### https://github.com/OlBreeze/library-microservices  
 
 Built a microservices-based library management system with separate authentication 
 and data services. Implemented JWT stateless authentication, Docker containerization, 
@@ -48,16 +50,73 @@ and pagination using Django REST Framework.
 📖 Auto-generated Swagger/OpenAPI docs
 ✅ Unit tests & admin panel
 ```
+
 --- 
+### https://github.com/OlBreeze/jwt-file-system  
 
-https://olbreeze.github.io/appStarWars/    
-https://olbreeze.github.io/CardWar/  
-https://olbreeze.github.io/Tictactoe/    
-https://olbreeze.github.io/weather/  
+Designed and implemented a two-microservice system that securely communicates via JWT-authenticated HTTP requests. 
+One service continuously monitors a local directory, detects new files, extracts metadata, and sends it securely to the second service for processing and storage.
+
+```
+🧩 Two-microservice architecture (File Watcher + Metadata Processor)  
+🔑 Secure inter-service communication with JWT authentication  
+📁 Automatic file detection and metadata extraction  
+📨 Asynchronous data transfer between services  
+⚙️ End-to-end file lifecycle management  
+🐳 Dockerized setup for isolated service environments  
+✅ Configurable logging and error handling  
+```
+---
+## 🌟 React Projects
+
+### 🌌 **Star Wars App**
+
+An interactive React application that fetches data from the **SWAPI API** to display characters, planets, and movies from the Star Wars universe.
+💡 **Tech stack:** React Hooks (`useEffect`, `useState`), Fetch API, responsive layout.  
+
+https://olbreeze.github.io/appStarWars/
+---
+
+### 🃏 **Card War Game**
+
+A two-player **card battle game** built with React.
+Features scoring logic, dynamic UI updates, and smooth animations.
+💡 **Tech stack:** React Hooks, `useState`, CSS animations.  
+
+https://olbreeze.github.io/CardWar/ 
+---
+
+### ❌⭕ **Tic-Tac-Toe Game**
+
+A classic **Tic-Tac-Toe** built with modern React.
+Includes winner detection, game reset, and a clean responsive interface.
+💡 **Tech stack:** React Hooks (`useState`), pure JavaScript logic, responsive design.  
+
+https://olbreeze.github.io/Tictactoe/
+---
+
+### ☁️ **Weather App**
+
+A simple weather dashboard that retrieves **real-time weather data** using an open API.
+Displays temperature, humidity, and conditions for any searched city.
+💡 **Tech stack:** React, Fetch API, `useEffect`, JSON data handling, responsive layout. 
+
+https://olbreeze.github.io/weather/
+---
+
+### 🐔 **Catch Chicken Game**
+
+A fun **mini-game** where players try to catch moving chickens on the screen.
+Demonstrates event handling, animations, and dynamic state updates in React.
+💡 **Tech stack:** React Hooks, `useState`, event listeners, CSS animations.  
+
 https://olbreeze.github.io/CatchChicken/  
+---
+Figma project  
 
+https://www.figma.com/design/rKHcAO3TPyKfircMGcJYSa/Insta-Figma-MyProject?node-id=16-3&t=fRKM8g8iWgBOGDRc-1
+---
 
-https://www.figma.com/design/rKHcAO3TPyKfircMGcJYSa/Insta-Figma-MyProject?node-id=16-3&t=fRKM8g8iWgBOGDRc-1  
   
 ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
 <!---
