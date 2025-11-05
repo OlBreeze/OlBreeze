@@ -3,7 +3,7 @@
                                                    
    # Hi, I’m Olga. 👋
 
-<b>Full Stack Developer</b> specializing in <b>Java, Spring</b> (Boot, Security and frontend technologies <b>HTML, CSS, React, Redux</b>. Full-cycle development experience, covering both backend and frontend components. Experience in working with <b>relational and NoSQL</b> databases.  
+<b>Full Stack Developer</b> specializing in <b>Java, Spring</b> (Boot, Security), <b>Python</b> (Flask, Django) and frontend technologies <b>HTML, CSS, React, Redux</b>. Full-cycle development experience, covering both backend and frontend components. Experience in working with <b>relational and NoSQL</b> databases.  
 
 ## Skills Summary  
 <b>Programming Languages:</b> Java, JavaScript, TypeScript, React, Redux, Delphi, 1C, SQL, PL/SQL  
