@@ -31,7 +31,24 @@ https://olbreeze.github.io/MyProfile/
 
   spisolja@gmail.com
 
-A bit of coding mischief I got into:  
+# 😏 A bit of coding mischief I got into:  
+
+https://github.com/OlBreeze/library-microservices  
+
+Built a microservices-based library management system with separate authentication 
+and data services. Implemented JWT stateless authentication, Docker containerization, 
+comprehensive API documentation via Swagger, and full CRUD operations with filtering 
+and pagination using Django REST Framework.
+
+```
+🔐 Microservices architecture (Auth + Books services)
+🐳 Docker containerization & orchestration
+🔑 JWT stateless authentication between services
+📚 Full CRUD with filtering, search & pagination
+📖 Auto-generated Swagger/OpenAPI docs
+✅ Unit tests & admin panel
+```
+--- 
 
 https://olbreeze.github.io/appStarWars/    
 https://olbreeze.github.io/CardWar/  
