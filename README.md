@@ -6,9 +6,9 @@
 <b>Full Stack Developer</b> specializing in <b>Java, Spring</b> (Boot, Security), <b>Python</b> (Flask, Django) and frontend technologies <b>HTML, CSS, React, Redux</b>. Full-cycle development experience, covering both backend and frontend components. Experience in working with <b>relational and NoSQL</b> databases.  
 
 ## Skills Summary  
-<b>Programming Languages:</b> Java, JavaScript, TypeScript, React, Redux, Delphi, 1C, SQL, PL/SQL  
+<b>Programming Languages:</b> Java, Python, JavaScript, TypeScript, React, Redux, Delphi, 1C, SQL, PL/SQL  
 <b>Web:</b> HTML, CSS, SCSS, Bootstrap, JS, TS, jQuery, Node.js  
-<b>Frameworks and Libraries:</b> Spring, Spring Boot, Maven, Hibernate, Lombok, Rest API, JUnit  
+<b>Frameworks and Libraries:</b> Spring, Spring Boot, Flask, Django, Maven, Hibernate, Lombok, Rest API, JUnit  
 <b>IDEs /Tools:</b> Eclipse, IntelliJ IDEA, WebStorm, VS Code, GitHub, Postman  
 <b>Databases:</b> Oracle, MySQL, PostgreSQL, MongoDB, Firebase  
 <b>Additional:</b> PowerDesigner, Jira, Photoshop, Figma  
