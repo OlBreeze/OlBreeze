@@ -68,6 +68,24 @@ One service continuously monitors a local directory, detects new files, extracts
 ```
 ---
 ## 🌟 React Projects
+### HR Job Search Bot - Automated Job Application Assistant
+
+Developed an intelligent job search automation platform that aggregates vacancies from multiple APIs, filters relevant opportunities, and generates personalized cover letters using AI. The system streamlines the entire job application workflow from discovery to submission.
+
+```
+🔍 Multi-source job aggregation (Remotive, Jooble, with extensible API support)
+🤖 AI-powered cover letter generation using LLM (OpenRouter/Claude)
+📊 Smart vacancy management with view tracking and selection system
+💾 Persistent storage for resumes, applications, and generated letters
+🎯 Intelligent filtering and relevance-based sorting
+📑 Pagination and batch processing for high-volume job searches
+🔄 Real-time API status monitoring and fallback handling
+✅ Full-cycle job application workflow (Search → Review → Select → Apply)
+🎨 Modern responsive UI with real-time vacancy updates
+```
+
+https://github.com/OlBreeze/hr-bot
+---
 
 ### 🌌 **Star Wars App**
 
