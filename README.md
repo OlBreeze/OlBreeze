@@ -70,11 +70,13 @@ One service continuously monitors a local directory, detects new files, extracts
 ---
 ### https://github.com/OlBreeze/chat_messanger
 
-**Real-Time WebSocket Chat Application** | Django, Channels, WebSockets, Redis, PostgreSQL
+```
+✅ **Real-Time WebSocket Chat Application** | Django, Channels, WebSockets, Redis, PostgreSQL
 - Developed full-stack real-time chat with live user counter, push notifications, and role-based permissions
 - Implemented async WebSocket consumer using Django Channels with Redis as message broker
 - Deployed production-ready application on Render.com with automated CI/CD pipeline
-- Solved complex issues including ASGI middleware ordering, SSL proxy configuration, and static file management
+🧩 Solved complex issues including ASGI middleware ordering, SSL proxy configuration, and static file management
+```
 
 ---
 ## 🌟 React Projects
