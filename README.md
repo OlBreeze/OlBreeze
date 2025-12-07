@@ -68,7 +68,9 @@ One service continuously monitors a local directory, detects new files, extracts
 ```
 
 ---
-### https://github.com/OlBreeze/chat_messanger
+### https://github.com/OlBreeze/chat_messanger  
+
+Built a production-ready real-time chat application using Django Channels and WebSockets with live user tracking, push notifications, and authentication, deployed on Render with PostgreSQL and Redis.
 
 ```
 ✅ **Real-Time WebSocket Chat Application** | Django, Channels, WebSockets, Redis, PostgreSQL
